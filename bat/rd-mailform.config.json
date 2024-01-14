@@ -1,0 +1,8 @@
+{
+  "useSmtp": true,
+  "host": "stmp.gmail.com",
+  "port": 465,
+  "username": "carsmarbella2@gmail.com",
+  "password": "Vilmal67",
+  "recipientEmail": "carsmarbella2@gmail.com"
+}
