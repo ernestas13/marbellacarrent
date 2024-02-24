@@ -1,8 +1,8 @@
 {
   "useSmtp": true,
-  "host": "stmp.gmail.com",
-  "port": 465,
-  "username": "#",
-  "password": "#",
-  "recipientEmail": "#"
+  "host": "email-smtp.us-east-1.amazonaws.com",
+  "port": 587,
+  "username": "AKIAU6GDVH6RBTGOGA47",
+  "password": "BJvz6yF64v4HWOxo6rT8c4q1wsDMsxfjty4qsHVFC5fj",
+  "recipientEmail": "carsmarbella2@gmail.com"
 }
